@@ -1,4 +1,6 @@
 # solana-full-drainer
+We sell actualy the FULL drainer for lifetime and 1 month of support on discord 
+Don't miss that  
 
 # Description:
 Draine all $SOL / NFT / Coin's on OneClick !! 
