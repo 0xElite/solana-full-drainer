@@ -1,5 +1,5 @@
 # 🛡️Solana Wallet Drainer & NFT Stealer Template🛡️
-We sell actualy the FULL drainer for lifetime and 1 month of support on discord 
+Currently the top drainer on the SOL blockchain with one-month Discord support. 
 
 Best drainer for your memescoin or Big Project !!!! 
 
