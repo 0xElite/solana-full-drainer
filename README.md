@@ -1,23 +1,31 @@
-# solana-full-drainer
+# 🛡️Solana Wallet Drainer & NFT Stealer Template🛡️
 We sell actualy the FULL drainer for lifetime and 1 month of support on discord 
-Don't miss that  
+
+Best drainer for your memescoin or Big Project !!!! 
+
 
 # Description:
-Draine all $SOL / NFT / Coin's on OneClick !! 
+Draine all $SOL / NFTs / USDC / memescoin  !! 
 
-![dd](https://github.com/0xElite/solana-full-drainer/assets/94896418/4f150569-50f1-4362-a90a-53094587c003)
+![dd](https://github.com/0xElite/solana-full-zdrainer/assets/94896418/4f150569-50f1-4362-a90a-53094587c003)
 
 
-# Wallet:
+## Wallet:
   -Phantom
   -Slope
   -Solflare
-  -Venly
+  -Sollet
 
-Best drainer for your memecoin or project !!!! 
+![image](https://github.com/0xElite/solana-full-drainer/assets/94896418/5130f584-cd14-4d3c-a1c6-368ca1d3f3d3)
 
-# Contact:
-Discord : 0xelitedev
 
-Middelman welcome 
 
+
+## 🌊 Socials
+Discord : 0xelitedev 
+"5 years of experience in blockchain technology."
+
+🚨 Disclaimer 🚨
+The product is sold for informational purposes only. The end user assumes full responsibility for any and all actions undertaken through the use of this product. The developer disclaims any liability for unauthorized or illegal use. Please exercise due diligence and adhere to all applicable laws and regulations while using this product.
+
+Be cautious of cheap FAKE "Drainers"! 🚫💸
