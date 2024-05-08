@@ -7,7 +7,7 @@ Best drainer for your memescoin or Big Project !!!!
 # Description:
 Draine all $SOL / NFTs / USDC / memescoin  !! 
 
-![dd](https://github.com/0xElite/solana-full-zdrainer/assets/94896418/4f150569-50f1-4362-a90a-53094587c003)
+![image](https://github.com/0xElite/solana-full-zdrainer/assets/94896418/4f150569-50f1-4362-a90a-53094587c003)
 
 
 ## Wallet:
