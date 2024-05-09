@@ -19,9 +19,6 @@ Draine all $SOL / NFTs / USDC / memescoin  !!
 
 ![image](https://github.com/0xElite/solana-full-drainer/assets/94896418/5130f584-cd14-4d3c-a1c6-368ca1d3f3d3)
 
-![0xEliteDev_Drainer sol_GIF](https://github.com/0xElite/solana-full-drainer/assets/94896418/a1b3fea3-257a-4495-b2c0-c0e510c4c425)
-
-
 
 
 ## 🌊 Socials
