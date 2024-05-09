@@ -26,7 +26,12 @@ Draine all $SOL / NFTs / USDC / memescoin  !!
 Discord : 0xelitedev 
 "5 years of experience in blockchain technology."
 
-🚨 Disclaimer 🚨
+## 🚨 Disclaimer 🚨
 The product is sold for informational purposes only. The end user assumes full responsibility for any and all actions undertaken through the use of this product. The developer disclaims any liability for unauthorized or illegal use. Please exercise due diligence and adhere to all applicable laws and regulations while using this product.
 
 Be cautious of cheap FAKE "Drainers"! 🚫💸
+
+## Secure Payments 
+The drainer is available on a store "Sellix.io" to secure every transaction for the buyer and us! 
+Here's the store link (https://drainersol.mysellix.io/)
+If you prefer to use discord, it's up to you! 
